@@ -2,7 +2,7 @@
 //  UserListItemViewModel.swift
 //  User Management
 //
-//  Created by Karicharla sricharan on 11/13/23.
+//  Created by Nikhil kumar on 11/13/23.
 //
 
 import Foundation
